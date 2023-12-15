@@ -4,3 +4,10 @@ The 3D Squid Game developing based on Three.js to spread the fun of gaming to ot
 become free to move, but when it turned in the forward
 direction, they had to stay still. If a player moves, they will
 lose the game.
+
+## Tech Stack
+
+**BackEnd:** JavaScript
+
+**FrontEnd:** HTML, CSS
+
